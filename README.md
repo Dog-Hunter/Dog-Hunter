@@ -1,5 +1,6 @@
-### Hi there 👋
-
+# @DOG-HUNTER
+---
+Hey, it's @DOG-HUNTER, also known as Tyler Shelby. I working on @Pilligrim-Inc. I work on several projects most of them a
 <!--
 **Dog-Hunter/Dog-Hunter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
