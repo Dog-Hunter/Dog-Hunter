@@ -1,6 +1,20 @@
 # @DOG-HUNTER
----
-Hey, it's @DOG-HUNTER, also known as Tyler Shelby. I working on @Pilligrim-Inc. I work on several projects most of them a
+[![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com)
+
+Hey, it's @DOG-HUNTER, also known as Tyler Shelby. I working on @Pilligrim-Inc. I work on several projects most of them a closed - BUT I love Open Source!
+
+# Main Projects
+| Project | Bages | Owner | Description |
+| ------- | ----- | ----- | ----------- |
+|Pill Base| [![forthebadge](https://forthebadge.com/images/badges/made-with-c-sharp.svg)](https://forthebadge.com) |@Pilligrim-Inc| It's a realation Database mostly build on C#|
+
+# About coloboration
+I would like to get some colobarration letter. If you interested, send me e-mail!
+
+I will try to anser it quickly, I pomise.
+
+
+![Alt Text](https://tenor.com/view/kitten-cat-typing-typing-cat-gif-5751430.gif)a
 <!--
 **Dog-Hunter/Dog-Hunter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
