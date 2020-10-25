@@ -1,7 +1,7 @@
 # @DOG-HUNTER
 [![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com)
 
-Hey, it's @DOG-HUNTER, also known as Tyler Shelby. I working on @Pilligrim-Inc. I work on several projects most of them a closed - BUT I love Open Source!
+Hey, it's @DOG-HUNTER, also known as Tyler Shelby. I'm working on @Pilligrim-Inc. I work on several projects most of them a closed - BUT I love Open Source!
 
 # Main Projects
 | Project | Bages | Owner | Description |
