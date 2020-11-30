@@ -6,7 +6,7 @@ I would like to get some collaboration letter. If you are interested, send me an
 
 I will try to answer it quickly, I promise.
 
-![Alt Text](https://tenor.com/view/kitten-cat-typing-typing-cat-gif-5751430.gif)a
+![Alt Text](https://tenor.com/view/kitten-cat-typing-typing-cat-gif-5751430.gif)
 <!--
 **Dog-Hunter/Dog-Hunter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
