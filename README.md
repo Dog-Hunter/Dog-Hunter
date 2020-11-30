@@ -1,13 +1,6 @@
 # @DOG-HUNTER
 [![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com)
 
-Hey, it's @DOG-HUNTER, also known as Tyler Shelby. I'm working on @Pilligrim-Inc. I work on several projects most of them a closed - BUT I love Open Source!
-
-# Main Projects
-| Project | Bages | Owner | Description |
-| ------- | ----- | ----- | ----------- |
-|Pill Base| [![forthebadge](https://forthebadge.com/images/badges/made-with-c-sharp.svg)](https://forthebadge.com) |@Pilligrim-Inc| It's a realation Database mostly build on C#|
-
 # About coloboration
 I would like to get some collaboration letter. If you are interested, send me an e-mail!
 
